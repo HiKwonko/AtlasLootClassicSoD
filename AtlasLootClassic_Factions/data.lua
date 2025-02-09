@@ -204,11 +204,12 @@ data["Durotar Supply And Logistics"] = {
 			[NORMAL_DIFF] = {
 				{ 1, "f2587rep8" },
 				{ 2, 223164 }, -- Curiosity Cowl
-				{ 3, 223169 }, -- Tenacity Cap
-				{ 4, 223172 }, -- Tenacity Chain
-				{ 5, 223186 }, -- Supply Expediter
-				{ 6, 223162 }, -- Handy Courier Haversack
-				{ 7, 220639 }, -- Lledra's Inanimator
+				{ 3, 223167 }, -- Initiative Cap
+				{ 4, 223169 }, -- Tenacity Cap
+				{ 5, 223172 }, -- Tenacity Chain
+				{ 6, 223186 }, -- Supply Expediter
+				{ 7, 223162 }, -- Handy Courier Haversack
+				{ 8, 220639 }, -- Lledra's Inanimator
 			},
 		},
 		{ -- Revered
@@ -269,11 +270,12 @@ data["Azeroth"] = {
 			[NORMAL_DIFF] = {
 				{ 1, "f2586rep8" },
 				{ 2, 223164 }, -- Curiosity Cowl
-				{ 3, 223169 }, -- Tenacity Cap
-				{ 4, 223172 }, -- Tenacity Chain
-				{ 5, 223186 }, -- Supply Expediter
-				{ 6, 223162 }, -- Handy Courier Haversack
-				{ 7, 220639 }, -- Lledra's Inanimator
+				{ 3, 223167 }, -- Initiative Cap
+				{ 4, 223169 }, -- Tenacity Cap
+				{ 5, 223172 }, -- Tenacity Chain
+				{ 6, 223186 }, -- Supply Expediter
+				{ 7, 223162 }, -- Handy Courier Haversack
+				{ 8, 220639 }, -- Lledra's Inanimator
 			},
 		},
 		{ -- Revered
